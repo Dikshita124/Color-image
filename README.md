@@ -7,4 +7,5 @@ Each color component is typically represented by an 8-bit value, ranging from 0 
 ![image](https://github.com/Dikshita124/Color-image/assets/145219071/67ed9120-8ff6-4a79-b709-15da77787970)
 ![image](https://github.com/Dikshita124/Color-image/assets/145219071/843d1e1c-1cfc-4674-9bb8-a1261a392b83)
 
+for the same result on satellite images check given code.
 Technology: Jupyter Notebook platform and apply its library to implement code with image processing using Python programming language.
